@@ -41,10 +41,6 @@
 
 ###
 
-<h3 align="left">My Socials:</h3>
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/ahmed-bukhamsin-2174aa245" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -62,6 +58,8 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/129/12909.gif"  />
+<div align="center">
+  <img height="150" src="https://giffiles.alphacoders.com/129/12909.gif"  />
+</div>
 
 ###
